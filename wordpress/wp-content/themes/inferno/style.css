@@ -1,0 +1,12 @@
+/*
+Theme Name: Inferno
+Theme URI: 
+Description: Orange Coloured , Child Theme of Enigma. Enigma has been in FEATURED THEME list in the Month of October-2014. 
+Author: weblizar
+Author URI: http://www.weblizar.com
+Template: enigma
+Version: 1.03
+Tags: rtl-language-support, black, blue, gray, red, dark, light, silver, white, green, brown, orange , two-columns, three-columns, four-columns, custom-menu, right-sidebar, fixed-layout, fluid-layout, custom-background, featured-image-header, sticky-post, theme-options, threaded-comments, featured-images, flexible-header, responsive-layout, translation-ready
+*/
+@import url('../enigma/style.css');
+.enigma_service_detail h3 a {color:rgba(255, 119, 87, 0.8);}
